@@ -1,1 +1,10 @@
-
+"chapter_label","category_primary","abs_freq","chapter_total","rel_within_chapter"
+"ch1","beliefs",4,10,0.4
+"ch1","values",2,10,0.2
+"ch1","customs",2,10,0.2
+"ch1","time",1,10,0.1
+"ch1","postcolonialism",1,10,0.1
+"front","values",7,20,0.35
+"front","customs",5,20,0.25
+"front","time",4,20,0.2
+"front","beliefs",4,20,0.2
